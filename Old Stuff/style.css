@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Press+Start+2P);
+@import url(https://fonts.googleapis.com/css?family=Baumans);
+@import url(https://fonts.googleapis.com/css?family=Monofett);
+@import url(https://fonts.googleapis.com/css?family=Black+Ops+One);
+@import url(https://fonts.googleapis.com/css?family=Fredericka+the+Great);
+@import url(https://fonts.googleapis.com/css?family=Parisienne);
+body { 
+    background-image: url('pics/blue.png');
+    background-attachment: fixed;
+	font-family: Pacifico;}
+.monserrat{
+	font-family: Monserrat;
+}
+.pacifico{
+	font-family: Pacifico;
+}
+.lobster{
+	font-family: lobster;
+}
+a:hover { 
+    background-color: #cccccc;
+}
+	
+	

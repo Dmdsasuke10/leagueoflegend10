@@ -1,0 +1,6 @@
+Topic:League of Legends
+Sub1: Game info
+Sub2: News
+Sub3: Champion
+Sub4: Community
+Sub5: Esports
